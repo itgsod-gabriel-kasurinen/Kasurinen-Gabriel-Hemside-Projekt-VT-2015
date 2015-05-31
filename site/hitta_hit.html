@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+
+    <script src="http://maps.googleapis.com/maps/api/js"></script>
+    <script>
+        function initialize() {
+            var mapProp = {
+                center: new google.maps.LatLng(45.4, -0.120850),
+                zoom: 13,
+                mapTypeId: google.maps.MapTypeId.ROADMAP
+            };
+            var map = new google.maps.Map(document.getElementById("googleMap"), mapProp);
+        }
+        google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+
+    <meta charset="UTF-8">
+    <title>Slipshit Ha-Dun-Dun-Dun-Dun-Dun-Dun</title>
+    <link rel="stylesheet" type="text/css" href="css/css_style.css">
+</head>
+<body>
+
+<div id="logga">
+
+
+</div>
+
+<div id="meny">
+    <ul>
+        <li><a class="button" href="http://localhost:63342/Hemsideprojekt-2/site/home.html">Hem</a></li>
+        </br>
+        <li><a class="button" href="http://localhost:63342/Hemsideprojekt-2/site/om_oss.html">Om oss</a></li>
+        </br>
+        <li><a class="button" href="http://localhost:63342/Hemsideprojekt-2/site/kontakt_info.html">Kontakt info</a>
+        </li>
+        </br>
+        <li><a class="buttonpressed" href="http://localhost:63342/Hemsideprojekt-2/site/hitta_hit.html">Hitta hit</a>
+        </li>
+        </br>
+        <li><a class="button" href="http://localhost:63342/Hemsideprojekt-2/site/for_elever.html">För elever</a></li>
+        </br>
+        <li><a class="button" href="http://localhost:63342/Hemsideprojekt-2/site/for_foraldrar.html">För föräldrar</a>
+        </li>
+        </br>
+    </ul>
+</div>
+
+<div id="du_ar_har">
+    <h1>Hitta hit!</h1>
+</div>
+
+<div id="har_ar_vi">
+
+
+    <div id="googleMap"></div>
+    </br>
+    <h1>Coolgatan 23, </br>Enskede 12243</h1>
+
+    <h1>Här är vi!</h1>
+</div>
+</body>
+</html>

@@ -1,0 +1,281 @@
+#body {
+    width: 1265px;
+    height: 1040px;
+
+}
+
+#logga {
+    float: left;
+    height: 200px;
+    width: 100%;
+    background-image: url("../img/professor_logga.jpg");
+    background-size: cover;
+}
+
+#meny {
+    float: left;
+    height: 1040px;
+    width: 12%;
+    background-color: red;
+
+}
+
+#meny img {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#meny ul {
+    list-style-type: none;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+#meny a {
+    color: white;
+    font-size: 20px;
+    margin-top: 10px;
+
+}
+
+.button {
+    display: block;
+
+    width: 100%;
+    float: left;
+    align-content: center;
+
+    background: #6f0008;
+    border: 2px solid rgba(134, 0, 8, 0.59);
+    /*Step 4: Fancy CSS3 Styles*/
+    background: -webkit-linear-gradient(top, #6f0008, #9a0000);
+    background: -moz-linear-gradient(top, #6f0008, #9a0000);
+    background: -o-linear-gradient(top, #6f0008, #9a0000);
+    background: -ms-linear-gradient(top, #6f0008, #9a0000);
+    background: linear-gradient(top, #6f0008, #9a0000);
+
+    -webkit-border-radius: 50px;
+    -khtml-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+
+    -webkit-box-shadow: 0 8px 0 #1b383b;
+    -moz-box-shadow: 0 8px 0 #1b383b;
+    box-shadow: 0 8px 0 #1b383b;
+    text-align: center;
+
+    /*Step 3: Text Styles*/
+    color: rgb(0, 0, 0);
+
+    font-size: 50px text-shadow : 0 2 px 2 px rgba(255, 255, 255, 0.2);
+}
+
+.buttonpressed {
+    background: #3d7a80;
+    background: -webkit-linear-gradient(top, #024f00, #36c800);
+    background: -moz-linear-gradient(top, #024f00, #36c800);
+    background: -o-linear-gradient(top, #024f00, #36c800);
+    background: -ms-linear-gradient(top, #024f00, #36c800);
+    background: linear-gradient(top, #024f00, #36c800);
+
+    display: block;
+    width: 100%;
+    float: left;
+    align-content: center;
+
+    border: 2px solid rgba(134, 0, 8, 0.59);
+    /*Step 4: Fancy CSS3 Styles*/
+
+    -webkit-border-radius: 50px;
+    -khtml-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+
+    -webkit-box-shadow: 0 8px 0 #1b383b;
+    -moz-box-shadow: 0 8px 0 #1b383b;
+    box-shadow: 0 8px 0 #1b383b;
+    text-align: center;
+
+    /*Step 3: Text Styles*/
+    color: rgb(0, 0, 0);
+
+    font-size: 50px;
+    text-shadow: 0 2px 2px rgba(255, 255, 255, 0.2);
+
+}
+
+.button:hover {
+    background: #3d7a80;
+    background: -webkit-linear-gradient(top, #024f00, #36c800);
+    background: -moz-linear-gradient(top, #024f00, #36c800);
+    background: -o-linear-gradient(top, #024f00, #36c800);
+    background: -ms-linear-gradient(top, #024f00, #36c800);
+    background: linear-gradient(top, #024f00, #36c800);
+}
+
+.button:active {
+    background: navy;
+}
+
+#innehall_har a {
+    text-decoration-color: red;
+}
+
+#du_ar_har {
+    float: left;
+    height: 200px;
+    width: 88%;
+    background-color: #00e0e6;
+
+    text-align: center;
+    margin-top: 40px;
+}
+
+#du_ar_har h1 {
+    font-family: cursive;
+    font-size: 70px;
+}
+
+#innehall_har {
+    float: left;
+    height: 800px;
+    width: 88%;
+    text-align: center;
+    align-content: center;
+    overflow: scroll;
+
+}
+
+.innehall {
+
+    float: left;
+    margin-top: 1%;
+    width: 20%;
+    margin-left: 2%;
+    height: 11%;
+    background-color: #ff0400;
+
+}
+
+.innehall h1 {
+    color: white;
+    font-size: 20px;
+}
+
+#har_ar_vi {
+    float: left;
+    width: 80%
+}
+
+#har_ar_vi h1 {
+    font-size: 40px;
+
+}
+
+#har_ar_vi input, img {
+    float: left;
+}
+
+#mat_schema {
+    float: left;
+}
+
+#mat_schema td {
+    text-align: center;
+
+}
+
+#googleMap {
+    float: left;
+    width: 1000px;
+    height: 700px;
+}
+
+#kontakt_innehall_har {
+    float: left;
+    width: 87%;
+
+}
+
+#kontakt_innehall_har ul tr {
+    float: left;
+}
+
+#kontakt_innehall_har table, th, td {
+    border: 2px solid black;
+
+}
+
+#kontakt_innehall_har th, td {
+    padding: 15px;
+    font-size: 30px;
+}
+
+@media screen and (max-width: 1200px) {
+    #googleMap {
+        width: 90%;
+        height: 700px;
+
+    }
+
+    #meny a {
+        font-size: 20px;
+
+    }
+
+    .innehall {
+        margin: 1%;
+    }
+
+    #kontakt_innehall_har th, td {
+        padding: 10px;
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .innehall h1 {
+        font-size: 15px;
+    }
+
+    #meny a {
+        font-size: 15px;
+
+    }
+}
+
+@media screen and (max-width: 650px) {
+
+    #meny a {
+        font-size: 10px;
+    }
+
+    #du_ar_har h1 {
+        font-size: 50px;
+    }
+
+    #kontakt_innehall_har th, td {
+        padding: 5px;
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 488px) {
+    .innehall h1 {
+        font-size: 10px;
+    }
+
+    #meny a {
+        font-size: 7px;
+    }
+
+    #du_ar_har h1 {
+        font-size: 35px;
+    }
+
+    .button {
+        height: 20%
+    }
+}
