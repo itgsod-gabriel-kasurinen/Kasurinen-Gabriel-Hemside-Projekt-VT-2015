@@ -8,8 +8,8 @@
     float: left;
     height: 200px;
     width: 100%;
-    background-image: url("../img/professor_logga.jpg");
-    background-size: cover;
+    background-image: url("../img/logga.jpg");
+    background-size: auto;
 }
 
 #meny {
