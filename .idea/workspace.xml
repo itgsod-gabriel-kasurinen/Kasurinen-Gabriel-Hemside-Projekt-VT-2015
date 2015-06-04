@@ -3,13 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b3daed26-4d41-4323-8843-e07d459d81c1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/css/css_style.css" afterPath="$PROJECT_DIR$/site/css/css_style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/for_elever.html" afterPath="$PROJECT_DIR$/site/for_elever.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/for_foraldrar.html" afterPath="$PROJECT_DIR$/site/for_foraldrar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/hitta_hit.html" afterPath="$PROJECT_DIR$/site/hitta_hit.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/home.html" afterPath="$PROJECT_DIR$/site/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/kontakt_info.html" afterPath="$PROJECT_DIR$/site/kontakt_info.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/om_oss.html" afterPath="$PROJECT_DIR$/site/om_oss.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Hemsideprojekt-2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,11 +42,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="for_foraldrar.html" pinned="false" current-in-tab="false">
+          <file leaf-file-name="for_foraldrar.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/site/for_foraldrar.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-10.625" vertical-offset="120" max-vertical-offset="1260">
-                  <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+                <state vertical-scroll-proportion="0.44356954" vertical-offset="236" max-vertical-offset="1260">
+                  <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
                   <folding />
                 </state>
               </provider>
@@ -88,10 +82,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="om_oss.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="om_oss.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/site/om_oss.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.28608924" vertical-offset="131" max-vertical-offset="1605">
+                <state vertical-scroll-proportion="-1.3625" vertical-offset="131" max-vertical-offset="1605">
                   <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
                   <folding />
                 </state>
@@ -105,8 +99,8 @@
           <file leaf-file-name="css_style.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/site/css/css_style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-5.162963" vertical-offset="3740" max-vertical-offset="5168">
-                  <caret line="97" column="0" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="32" />
+                <state vertical-scroll-proportion="0.62222224" vertical-offset="4474" max-vertical-offset="5372">
+                  <caret line="278" column="24" selection-start-line="278" selection-start-column="24" selection-end-line="278" selection-end-column="24" />
                   <folding />
                 </state>
               </provider>
@@ -125,9 +119,9 @@
         <option value="$PROJECT_DIR$/site/kontakt_info.html" />
         <option value="$PROJECT_DIR$/site/home.html" />
         <option value="$PROJECT_DIR$/site/hitta_hit.html" />
-        <option value="$PROJECT_DIR$/site/for_foraldrar.html" />
         <option value="$PROJECT_DIR$/site/for_elever.html" />
         <option value="$PROJECT_DIR$/site/om_oss.html" />
+        <option value="$PROJECT_DIR$/site/for_foraldrar.html" />
         <option value="$PROJECT_DIR$/site/css/css_style.css" />
       </list>
     </option>
@@ -606,14 +600,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/for_foraldrar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.625" vertical-offset="120" max-vertical-offset="1260">
-          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/for_elever.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.9375" vertical-offset="0" max-vertical-offset="1845">
@@ -627,16 +613,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/site/om_oss.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28608924" vertical-offset="131" max-vertical-offset="1605">
+        <state vertical-scroll-proportion="-1.3625" vertical-offset="131" max-vertical-offset="1605">
           <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/for_foraldrar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44356954" vertical-offset="236" max-vertical-offset="1260">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/site/css/css_style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.162963" vertical-offset="3740" max-vertical-offset="5168">
-          <caret line="97" column="0" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.62222224" vertical-offset="4474" max-vertical-offset="5372">
+          <caret line="278" column="24" selection-start-line="278" selection-start-column="24" selection-end-line="278" selection-end-column="24" />
           <folding />
         </state>
       </provider>

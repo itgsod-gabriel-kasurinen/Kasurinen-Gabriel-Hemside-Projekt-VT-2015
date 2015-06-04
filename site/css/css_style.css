@@ -270,7 +270,16 @@
     #meny a {
         font-size: 40px;
         margin-top: 0px;
-        margin
+
+    }
+    #logga img {
+    width: 1280px;
+    }
+    #innehall_har {
+        width: 1280px;
+    }
+    #logga {
+        width: 1280px;
     }
     .button {
              width: 49%;
@@ -289,7 +298,10 @@
         margin-bottom: 20px;
     }
     #du_ar_har h1 {
-        font-size: 35px;
+        font-size: 80px;
+    }
+    #du_ar_har {
+        width: 1280px;
     }
 
     .button {
